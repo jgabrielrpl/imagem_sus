@@ -1,49 +1,49 @@
-palavras;mes;Março
-Saúde ;Marco;7
-Saúde ;Abril;4
-Saúde ;Maio;8
-Saúde ;Junho;2
-Saúde ;Julho;1
-Saúde ;Agosto;3
-Saúde ;Setembro;3
-Saúde ;Outubro;6
-Economia ;Marco;5
-Economia ;Abril;2
-Economia ;Maio;2
-Economia ;Junho;
-Economia ;Julho;1
-Economia ;Agosto;4
-Economia ;Setembro;5
-Economia ;Outubro;4
-Cloroquina ;Marco;1
-Cloroquina ;Abril;1
-Cloroquina ;Maio;2
-Cloroquina ;Junho;1
-Cloroquina ;Julho;
-Cloroquina ;Agosto;1
-Cloroquina ;Setembro;2
-Cloroquina ;Outubro;1
-OMS;Marco;1
-OMS;Abril;
-OMS;Maio;
-OMS;Junho;1
-OMS;Julho;
-OMS;Agosto;1
-OMS;Setembro;
-OMS;Outubro;2
-Pandemia ;Marco;
-Pandemia ;Abril;
-Pandemia ;Maio;1
-Pandemia ;Junho;2
-Pandemia ;Julho;
-Pandemia ;Agosto;3
-Pandemia ;Setembro;
-Pandemia ;Outubro;1
-Crise;Marco;2
-Crise;Abril;
-Crise;Maio;
-Crise;Junho;
-Crise;Julho;
-Crise;Agosto;
-Crise;Setembro;
-Crise;Outubro;
+palavras;mes;contagem;ordem_mes
+Saúde ;Marco;7;1
+Saúde ;Abril;4;2
+Saúde ;Maio;8;3
+Saúde ;Junho;2;4
+Saúde ;Julho;1;5
+Saúde ;Agosto;3;6
+Saúde ;Setembro;3;7
+Saúde ;Outubro;6;8
+Economia ;Marco;5;1
+Economia ;Abril;2;2
+Economia ;Maio;2;3
+Economia ;Junho;;4
+Economia ;Julho;1;5
+Economia ;Agosto;4;6
+Economia ;Setembro;5;7
+Economia ;Outubro;4;8
+Cloroquina ;Marco;1;1
+Cloroquina ;Abril;1;2
+Cloroquina ;Maio;2;3
+Cloroquina ;Junho;1;4
+Cloroquina ;Julho;;5
+Cloroquina ;Agosto;1;6
+Cloroquina ;Setembro;2;7
+Cloroquina ;Outubro;1;8
+OMS;Marco;1;1
+OMS;Abril;;2
+OMS;Maio;;3
+OMS;Junho;1;4
+OMS;Julho;;5
+OMS;Agosto;1;6
+OMS;Setembro;;7
+OMS;Outubro;2;8
+Pandemia ;Marco;;1
+Pandemia ;Abril;;2
+Pandemia ;Maio;1;3
+Pandemia ;Junho;2;4
+Pandemia ;Julho;;5
+Pandemia ;Agosto;3;6
+Pandemia ;Setembro;;7
+Pandemia ;Outubro;1;8
+Crise;Marco;2;1
+Crise;Abril;;2
+Crise;Maio;;3
+Crise;Junho;;4
+Crise;Julho;;5
+Crise;Agosto;;6
+Crise;Setembro;;7
+Crise;Outubro;;8
